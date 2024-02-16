@@ -63,7 +63,7 @@
         <reverted_from/>
         <source>2130de8847433110f96fa3c9316d437f</source>
         <source_table>sys_upgrade_history</source_table>
-        <state>current</state>
+        <state>previous</state>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-06 21:55:27</sys_created_on>
         <sys_id>64501ec847433110f96fa3c9316d4326</sys_id>
@@ -80,6 +80,7 @@
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-02-01 18:43:24</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
         <sys_id>09f029c8c1124d728c8f2c459698c964</sys_id>
         <sys_metadata>ba28bf591bd63d50b76a0d0fdc4bcb7e</sys_metadata>
@@ -88,6 +89,7 @@
         <sys_package display_value="Event-Driven Ansible Notification Service" source="x_rhtpp_eda">cb4182e69767611049b0b9dfe153af15</sys_package>
         <sys_parent display_value="">4630de8847433110f96fa3c9316d43ea</sys_parent>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Event-Driven Ansible Notification Service">cb4182e69767611049b0b9dfe153af15</sys_scope>
         <sys_scope_delete display_value="">29cef78a97ba4219bda3713dc0a82ab9</sys_scope_delete>
         <sys_update_name>sys_security_acl_ba28bf591bd63d50b76a0d0fdc4bcb7e</sys_update_name>

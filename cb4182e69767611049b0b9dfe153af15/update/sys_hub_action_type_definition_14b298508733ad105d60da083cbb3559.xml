@@ -2166,6 +2166,6 @@
     <sys_hub_action_type_definition action="UPDATE">
         <sys_id>14b298508733ad105d60da083cbb3559</sys_id>
         <latest_snapshot>fb7d06c3877fa5505d60da083cbb35c3</latest_snapshot>
-        <compiler_build>glide-vancouver-07-06-2023__patch2-hotfix1-10-04-2023_10-06-2023_1235.zip</compiler_build>
+        <compiler_build>glide-utah-12-21-2022__patch9-hotfix1-11-21-2023_12-11-2023_1645.zip</compiler_build>
     </sys_hub_action_type_definition>
 </record_update>
